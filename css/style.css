@@ -51,4 +51,66 @@
     color: aliceblue;
 }
 /* row 1 css is done*/
+/*row 2 css is strart*/
+#row2{
+    height: 400px;
+    width: 100%;
+    background: #fff;
+}
+.whyyoga_section{
+    width: 65%;
+    margin: 0 auto;
+    height: 100%;
+}
+.whyyoga_title{
+    text-align: center;
+     padding: 30px 0px;
+     font-size: 30px;
+     
+
+}
+.whyyoga_title h1{}
+.whyyoga_item_all{
+    padding: 50px 0px;
+}
+.whyyoga_item{
+    width: 29%;
+    float: left;
+    text-align: center;
+    margin-left: 30px;
+}
+.whyyoga_item i{
+    font-size: 33px;
+    padding-bottom: 20px;
+    color: black;
+}
+.whyyoga_item h4{
+    padding-bottom: 10px;
+}
+.whyyoga_item p{
+    text-align: justify;
+}
+/*row 2 css done*/
+/* row 3 start*/
+#row3{
+    height: 400px;
+    width: 100%;
+    background: url(../images/jumpingyoga.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-repeat: round;
+}    
+.advance_section{
+    padding-top: 120px;
+    margin-left: 800px;
+}
+.advance_section_title{}
+.advance_section_para{
+    text-align: justify;
+}
+.advance_section_readmore{
+    border: 2px solid blanchedalmond;
+     
+}
+
 
