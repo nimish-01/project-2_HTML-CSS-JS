@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+#row1{
+    height: 600px;
+    width: 100%;
+    background: url(../images/yogabackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-repeat: round;
+}
+.banner_section{
+
+}
+.logo{
+    text-align: center;
+    padding-top: 180px;
+}
+.logo img{
+    width: 150px;
+    height: 120px;
+}
+.logo h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 70px;
+    padding-top: 0px;
+    
+}
+.yoga_studies{
+    text-align: center;
+    color: aliceblue;
+}
+.yoga_studies h2{}
+.menu{
+    width: 70%;
+    height: 100%;
+    float: left;
+    
+}
+.menu ul{
+    margin-left: 500px;
+    padding-top: 120px;
+}
+.menu ul li{
+    float: left;
+    list-style: none;
+    line-height: 50px;
+    margin-left: 30px;
+    color: aliceblue;
+}
+/* row 1 css is done*/
+
