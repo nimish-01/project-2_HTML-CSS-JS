@@ -93,9 +93,9 @@
 /*row 2 css done*/
 /* row 3 start*/
 #row3{
-    height: 400px;
+    height: 600px;
     width: 100%;
-    background: url(../images/jumpingyoga.jpg);
+    background: url(../images/flexible-woman-doing-stretching-exercises.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-repeat: round;
@@ -109,8 +109,176 @@
     text-align: justify;
 }
 .advance_section_readmore{
-    border: 2px solid blanchedalmond;
+    border: 3px solid blanchedalmond;
+    display: block;
+    padding: 3px;
+    margin-top: 2px;
+    width: 65px;
      
 }
+/*row 3 ends*/
+/*row 4 starts*/
+#row4{
+    height: 400px;
+    width: 100%;
+    background: #fff;
+}
+.why_us_section{
+    padding-top: 74px;
+    position: absolute;
+    width: 75%;
+    left: 15%;
+     
+}
+.why_us_img{
+    
+}
+.why_us_img img{
+    height: 200px;
+    width: 20%;
+    padding-left: 223px;
+    padding-top: 55px;
+    float: left;
+   
+    
+    
+}
+.why_us_title{
+    padding-top: 50px;
+
+    width: 400px;
+    padding-left: 481px;
+    text-align: right;
+   
+
+}
+.why_us_title h1{
+    font-size: 40px;
+    text-align: center;
+   
+   
+}
+.why_us_title p{
+    text-align: justify;
+    
+}
+/* row  4 ends*/
+/* row 5 starts*/
+#row5{
+    height: 630px;
+    width: 100%;
+    background: #fff;
+    margin-bottom: 105px;
+}
+.our_programs_section{
+    width: 65%;
+    margin: 0 auto;
+    height: 100%;
+    padding: 50px 0px;
+    
+}
+.logo_program{
+    text-align: center;
+}
+.logo_program img{
+    height: 110px;
+    width: 20%;
+    padding-bottom: 38px;
+   
+}
+.our_program_title{
+    text-align: center;
+}
+.our_program_title h1{
+    font-size: 30px;
+    padding-bottom: 60px;
+}
+.img_container{
+    width: 20%;
+    float: left;
+    margin-left: 37px;
+}
+.img_container img{
+    width: 100%;
+    height: 164px;
+}
+.img_container h3{}
+.img_container h4{}
+.img_container p{}
+.readmore_section{
+    background: rgb(114, 71, 114);
+    display: block;
+    padding: 3px;
+    margin-top: 6px;
+    width: 77px;
+}
+.readmore_section a{
+    color: #fff;
+}
+/* row 5 ends*/
+/*row 6 starts*/
+#row6{
+    height: 400px;
+    width: 100%;
+    background: skyblue;
+}
+.footer_section{
+    padding-top: 100px;
+    
+}
+.contact_us_title{
+   
+    margin-left: 257px;
+    width: 190px;
+   float: left;
+   
+    
+    
+}
+.contact_us_title h3{}
+
+.contact_us_title ul {}
+.contact_us_title ul li{}
+.form_section{
+    text-align:  justify;
+    height: 200px;
+    width: 15%;
+    padding-left:565px;
+    
+   
+    
+    
+    
+}
+.form_section h3{}
+.form_section_details{}
+.social_media{
+   
+    height: 200px;
+    width: 20%;
+    padding-left: 900px;
+    margin-top: -197px;
+   
+}
+.social_media h3{}
+
+.social_media i{
+    height: 50px;
+    width: 50px;
+    font-size: 18px;
+    background: #fff;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+/*row 6 ends with css*/
+
+
+
+
+
+
 
 
