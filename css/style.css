@@ -220,57 +220,52 @@
 #row6{
     height: 400px;
     width: 100%;
-    background: skyblue;
+    background: skyblue; 
+   
 }
 .footer_section{
-    padding-top: 100px;
-    
+    width: 90%;
+    margin: 0 auto;
+    height: 100%;
+    padding: 50px 200px;   
 }
-.contact_us_title{
-   
-    margin-left: 257px;
-    width: 190px;
-   float: left;
-   
-    
-    
+.footer_item_all{}
+.footer_item{
+    width: 17%;
+    float: left;
+    margin-left: 65px;
 }
-.contact_us_title h3{}
+ 
+   
+    
+    
 
-.contact_us_title ul {}
-.contact_us_title ul li{}
-.form_section{
-    text-align:  justify;
-    height: 200px;
-    width: 15%;
-    padding-left:565px;
-    
+.footer_item h3{}
+
+.footer_item ul {}
+.footer_item ul li{}
+.footer_item{
    
     
-    
-    
 }
-.form_section h3{}
+.footer_item h3{}
 .form_section_details{}
-.social_media{
-   
-    height: 200px;
-    width: 20%;
-    padding-left: 900px;
-    margin-top: -197px;
+.footer_item{
+  
    
 }
-.social_media h3{}
+.footer_item h3{}
 
-.social_media i{
+.footer_item i{
     height: 50px;
-    width: 50px;
+    width: 40px;
     font-size: 18px;
     background: #fff;
     text-align: center;
     line-height: 50px;
     border-radius: 50%;
     margin-top: 10px;
+  
 }
 
 /*row 6 ends with css*/
